@@ -1,4 +1,4 @@
-﻿namespace Calculadora_Daniel
+﻿namespace Calculadora
 {
     partial class Calculadora
     {
